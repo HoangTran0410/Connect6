@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogsVx8zb/ncDkc2oTXbkQW/l0Nkfa9GG28FI8lYhciOg82sQtObvFkaKrgDT+YkyfM9SFzp1Bi9h66rv/H8TQA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Github\\Connect6\\Connect6-CSharp\\Connect6-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HoangTran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

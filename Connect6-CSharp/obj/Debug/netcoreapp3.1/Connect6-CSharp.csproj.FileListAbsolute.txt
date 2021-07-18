@@ -1,0 +1,13 @@
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.exe
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.deps.json
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.runtimeconfig.json
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.runtimeconfig.dev.json
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.dll
+E:\Projects\Github\Connect6\Connect6-CSharp\bin\Debug\netcoreapp3.1\Connect6-CSharp.pdb
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.csprojAssemblyReference.cache
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.AssemblyInfoInputs.cache
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.AssemblyInfo.cs
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.csproj.CoreCompileInputs.cache
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.dll
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.pdb
+E:\Projects\Github\Connect6\Connect6-CSharp\obj\Debug\netcoreapp3.1\Connect6-CSharp.genruntimeconfig.cache

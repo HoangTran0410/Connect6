@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect6-CSharp", "Connect6-CSharp.csproj", "{AD0DA52C-17FF-4391-ABBA-F2A0A4277E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0DA52C-17FF-4391-ABBA-F2A0A4277E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0DA52C-17FF-4391-ABBA-F2A0A4277E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0DA52C-17FF-4391-ABBA-F2A0A4277E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0DA52C-17FF-4391-ABBA-F2A0A4277E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

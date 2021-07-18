@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Connect6-CSharp/1.0.0": {
+        "runtime": {
+          "Connect6-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connect6-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
